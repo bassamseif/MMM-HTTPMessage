@@ -1,0 +1,18 @@
+{
+  "name": "MMM_HTTPMessage",
+  "version": "1.1.0",
+  "description": "Webhook Alerts for Magic Mirror",
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "Web hooks",
+    "alerts",
+    "module"
+  ],
+  "author": "Peter Tewkesbury",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "latest",
+    "mustache": "4.0.0"
+  }
+}
